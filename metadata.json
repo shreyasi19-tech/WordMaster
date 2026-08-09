@@ -1,0 +1,6 @@
+{
+  "name": "WordMaster",
+  "description": "Modern, feature-rich Wordle-inspired word puzzle game with difficulty levels, custom themes, sound effects, AI hint assistant, vocabulary lookup, statistics dashboard, daily challenge, timer modes, achievements, and guess history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
